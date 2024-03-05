@@ -1,3 +1,6 @@
+# react-ts-registration-form
+  회원가입/로그인 페이지 개발
+
 1. Next.js와 TypeScript를 사용한 프로젝트 생성 후 디렉토리로 이동
    $ yarn create next-app --typescript react-ts-registration-form
    $ cd react-ts-registration-form
